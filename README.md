@@ -1,7 +1,7 @@
 # Hi, 👋
 I'm **[Anusha Nalajala](https://www.linkedin.com/in/anushanalajala/)** ; You can call me 'Anu'
 
-I've completed my Bachelor's & Masters in Computer Science and Engineering.
+I've completed my Bachelor's & Master's in Computer Science and Engineering.
 
 Later I worked as Assistaant Professor to teach Computer Science and Engineering students in **[Andhra Loyola Institute of Engineering and Technology](https://www.aliet.ac.in/)**
 
