@@ -5,7 +5,7 @@ I've completed my Bachelor's & Master's in Computer Science and Engineering.
 
 Later I worked as Assistaant Professor to teach Computer Science and Engineering students in **[Andhra Loyola Institute of Engineering and Technology](https://www.aliet.ac.in/)**
 
-Enthusiam towards Cloud Computing Environment made me to chose a path for pursuing Ph.D in Computer Science and Engineering at **[SRM University-AP](https://srmap.edu.in/)**
+Enthusiam towards Cloud Computing Environment made me to chose a path for pursuing Ph.D (Computer Science and Engineering) in Cloud storage systems at **[SRM University-AP](https://srmap.edu.in/)**
 
 My research mainly focuses on improving the performance of read operations in distributed file system environment, so that the client requests can be served efficiently in a faster manner. Distributed file system acts as a back-end storage for cloud computing systems. To achieve this, I've developed novel HDFS architecture to improve the performance of distributed file system by applying novel Prefetching, caching, and replacement techniques.
 To know more about my research -**[Refer to my Google Scholar profile](https://scholar.google.com/citations?user=k1ImLcYAAAAJ&hl=en&oi=ao)**
