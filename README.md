@@ -1,5 +1,5 @@
 # Hi, 👋
-I'm **[Anusha Nalajala](https://www.linkedin.com/in/anushanalajala/)** ; You can call me 'Anu'
+I'm **[Anusha Nalajala](https://www.linkedin.com/in/anushanalajala/)** ; You can call me '𝑨𝒏𝒖𝒔𝒉𝒂'
 
 I've completed my Bachelor's & Master's in Computer Science and Engineering.
 
@@ -45,21 +45,16 @@ My strength are: I'm a highly organized person dedicated with positive attitude,
 
 ## Connect with me
 
-<a href="https://github.com/NalajalaA
-" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
- alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/NalajalaA" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/ANalajala
-" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
- alt=twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/ANalajala" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/anushanalajala/" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
- alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 ---
@@ -96,9 +91,5 @@ My strength are: I'm a highly organized person dedicated with positive attitude,
 ## 🤝🏻 Let's Keep in Touch
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/anushanalajala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-VijayaLakshmi-blue?style=flat-square&logo=linkedin
-"></a>
-<a href="https://twitter.com/ANalajala
-"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Anusha-blue?style=flat-square&logo=twitter
-"></a>
+<a href="https://www.linkedin.com/in/anushanalajala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anusha-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/ANalajala"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Anusha-blue?style=flat-square&logo=twitter"></a>
