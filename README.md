@@ -7,7 +7,7 @@ Later I worked as Assistaant Professor to teach Computer Science and Engineering
 
 Enthusiam towards Cloud Computing Environment made me to chose a path for pursuing Ph.D in Computer Science and Engineering at **[SRM University-AP](https://srmap.edu.in/)**
 
-My research mainly focuses on improving the performance of read operations in distributed environment, so that the client requests can be served efficiently. To achieve this, I've developed novel HDFS architecture to improve the performance of distributed file system by applying novel Prefetching, caching, and replacement techniques.
+My research mainly focuses on improving the performance of read operations in distributed file system environment, so that the client requests can be served efficiently in a faster manner. Distributed file system acts as a back-end storage for cloud computing systems. To achieve this, I've developed novel HDFS architecture to improve the performance of distributed file system by applying novel Prefetching, caching, and replacement techniques.
 To know more about my research -**[Refer to my Google Scholar profile](https://scholar.google.com/citations?user=k1ImLcYAAAAJ&hl=en&oi=ao)**
 
 On interest, passion, and a goal in software.. I've started my career as a DevOps Engineer..
@@ -100,5 +100,5 @@ My strength are: I'm a highly organized person dedicated with positive attitude,
 <a href="https://www.linkedin.com/in/anushanalajala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-VijayaLakshmi-blue?style=flat-square&logo=linkedin
 "></a>
 <a href="https://twitter.com/ANalajala
-"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Vijaya-blue?style=flat-square&logo=twitter
+"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Anusha-blue?style=flat-square&logo=twitter
 "></a>
