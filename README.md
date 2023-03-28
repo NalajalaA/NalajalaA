@@ -42,6 +42,11 @@ My strength are: I'm a highly organized person dedicated with positive attitude,
 
 - [𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐃𝐚𝐲𝟏](https://www.linkedin.com/posts/anushanalajala_letlearntogether-devopsseries-cloudnloud-activity-7041943527617957888-toyJ?)
 
+- [𝐇𝐨𝐰 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐲𝐨𝐮𝐫 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐦𝐨𝐫𝐞 𝐚𝐭𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐞](https://www.linkedin.com/posts/anushanalajala_how-to-create-an-attractive-profile-on-github-activity-7042381828510425088-vWMI?)
+
+- [𝐖𝐚𝐧𝐧𝐚 𝐥𝐞𝐚𝐫𝐧 𝐭𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐬𝐭𝐞𝐩𝐬 𝐢𝐧 𝐆𝐢𝐭𝐇𝐮𝐛](https://www.linkedin.com/posts/anushanalajala_initial-steps-to-know-about-github-as-a-devops-activity-7043800226440122368-7iCq?)
+
+- [𝐆𝐢𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬](https://www.linkedin.com/posts/anushanalajala_git-commands-activity-7046400279759515648-uI6f?)
 
 ## Connect with me
 
